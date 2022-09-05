@@ -1,1 +1,1 @@
-# PIML-SquareDuct
+# Physic-Informed Machine Learning - SquareDuct
